@@ -1,0 +1,31 @@
+{
+  "name": "wat-instantiate",
+  "version": "1.0.4",
+  "description": "Convert a WAT string to a WASM module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battlelinegames/instantiatewat.git"
+  },
+  "keywords": [
+    "WAT",
+    "WebAssembly",
+    "WASM",
+    "JavaScript",
+    "Node",
+    "NodeJS",
+    "NPM"
+  ],
+  "author": "Rick Battagline <rick@battagline.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/battlelinegames/instantiatewat/issues"
+  },
+  "homepage": "https://github.com/battlelinegames/instantiatewat#readme",
+  "dependencies": {
+    "wabt": "^1.0.12"
+  }
+}
